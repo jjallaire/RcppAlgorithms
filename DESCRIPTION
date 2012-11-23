@@ -1,0 +1,11 @@
+Package: RcppAlgorithms
+Type: Package
+Title: Demonstration of exposing generic algorithms with R and C++ interfaces
+Version: 1.0
+Date: 2012-11-23
+Author: JJ Allaire
+Maintainer: JJ Allaire <jj@rstudio.org>
+Description: Demonstration of exposing generic algorithms with R and C++ interfaces
+License: What Licence is it under ?
+Depends: Rcpp (>= 0.10.0.3)
+LinkingTo: Rcpp
